@@ -12,7 +12,7 @@ An OS interfaces with a user through CLI, A CLI is a sofware module capable of i
 6. Ls
 7. cp
 8. mv
-9.rm
+9. rm
 10. mkdir
 11. rmdir
 12. cat
